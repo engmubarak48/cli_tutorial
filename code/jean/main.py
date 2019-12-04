@@ -1,6 +1,6 @@
 from __future__ import print_function
 from itertools import count
-
+import numpy as np
 import torch
 import torch.nn.functional as F
 
